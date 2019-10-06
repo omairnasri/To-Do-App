@@ -16,4 +16,4 @@ todoController(app);
 // Listent to port
 app.listen(3000);
 
-console.log('Listening to port 3000');
+console.log('Navigate to http://localhost:3000/todo for a demo :)');
