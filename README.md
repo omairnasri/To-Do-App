@@ -4,4 +4,6 @@ Technologies implemented: JavaScipt; Node.js, jQuery, Express API, Mongoose to i
 
 Used the MVC architecture. 
 
+Run 'node app.js' from within the project directory to demo this app - further instructions will follow. 
+
 Creator: Omair Nasri
